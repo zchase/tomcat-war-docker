@@ -1,4 +1,4 @@
-bmcgeheevoicebox/tomcat-war-docker:
+zchase/tomcatwar:
 
   Env:
     # Set the below enviornment variables for your environment
